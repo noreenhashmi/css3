@@ -1,0 +1,30 @@
+What is the difference between CSS2 and CSS3?
+What are the new features of CSS3?
+What are the CSS3 modules?
+What are CSS3 media queries?
+What are CSS3 media types?
+What are CSS3 Selectors?
+How can you create Rounded corners in CSS3?
+What are the associated border-radius properties?
+How can you create a CSS3 property for each corner?
+Is it possible to create border as an Image in CSS3?
+Explain the three main ways to apply CSS styles to a web page.
+Could you describe the different kinds of selectors?
+Explain the three main ways to target elements.
+How do you target something inside or around another element?
+What are pseudo elements and what are they used for?
+What are pseudo classes and what are they used for?
+What are attributes and how are they used?
+Can you describe the rules around specificity?
+Should you use !important?
+How do margin, border and padding fit together in the box model?
+What’s your preferred way of sizing fonts?
+What are web safe fonts and fallback fonts?
+How would you use media queries in a mobile-first approach?
+How do you handle browser differences in your user base?
+Do you use any tools for browser support?
+Have you used Flexbox & CSS Grid before? What are the differences between them?
+Do you use any CSS preprocessors, and which do you prefer?
+What is file splitting and why should you use it?
+What are variables used for?
+What are functions/mixins?
